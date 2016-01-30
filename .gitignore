@@ -1,3 +1,15 @@
+#Creator Specifics
+*.cycdx
+*.cyfit
+*.rpt
+*.uvopt
+*.uvproj
+*_timing.html
+*.cydsn/codegentemp
+*.cydsn/DP8051
+*.cydsn/Generated_Source
+*.cydsn/CortexM0
+
 # Object files
 *.o
 *.ko
